@@ -38,7 +38,7 @@
 		</dict>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
@@ -53,5 +53,17 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>GrenzeGotisch-Black.ttf</string>
+		<string>GrenzeGotisch-Bold.ttf</string>
+		<string>GrenzeGotisch-ExtraBold.ttf</string>
+		<string>GrenzeGotisch-ExtraLight.ttf</string>
+		<string>GrenzeGotisch-Light.ttf</string>
+		<string>GrenzeGotisch-Medium.ttf</string>
+		<string>GrenzeGotisch-Regular.ttf</string>
+		<string>GrenzeGotisch-SemiBold.ttf</string>
+		<string>GrenzeGotisch-Thin.ttf</string>
+	</array>
 </dict>
 </plist>

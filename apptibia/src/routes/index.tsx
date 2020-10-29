@@ -8,8 +8,13 @@ const Stack = createStackNavigator();
 
 const Routes: React.FC = () => {
   return (
-    <Stack.Navigator screenOptions={{}}>
-      <Stack.Screen name="Main" component={Main} />
+    <Stack.Navigator
+      screenOptions={{
+        headerShown: false,
+        cardStyle: { backgroundColor: '#364C50' },
+      }}
+    >
+      <Stack.Screen name="Tíbia" component={Main} />
       <Stack.Screen name="World Details" component={WorldDetails} />
     </Stack.Navigator>
   );

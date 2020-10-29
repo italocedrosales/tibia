@@ -16,6 +16,15 @@
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* apptibiaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* apptibiaTests.m */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		99A074F68C57428EAAB6D652 /* GrenzeGotisch-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C7B554B59EC4C489C853F07 /* GrenzeGotisch-Black.ttf */; };
+		7F7B7A64831C408FBB6EC806 /* GrenzeGotisch-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 87013D47366F4FDE8F9FCA07 /* GrenzeGotisch-Bold.ttf */; };
+		6A0C09129D8B4FB0A2CBA197 /* GrenzeGotisch-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 05589240F4EF47858E37903F /* GrenzeGotisch-ExtraBold.ttf */; };
+		A1BE0EE5C69E4C3BA81EFD5A /* GrenzeGotisch-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9DC62CF2DE834CD5B31FDA95 /* GrenzeGotisch-ExtraLight.ttf */; };
+		DDF8A46A79174DE0821BC93F /* GrenzeGotisch-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9934C5E7D5D84B23B9A98D24 /* GrenzeGotisch-Light.ttf */; };
+		47613A4036CE418081F20856 /* GrenzeGotisch-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40DD81C6F96748DEA9113FCD /* GrenzeGotisch-Medium.ttf */; };
+		1040D7128345462FA86AD693 /* GrenzeGotisch-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5C7FA3179C304CE2A47D42FB /* GrenzeGotisch-Regular.ttf */; };
+		161E3F907758454E811C69F8 /* GrenzeGotisch-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A82178D3D55B430F9F199EDA /* GrenzeGotisch-SemiBold.ttf */; };
+		CC437038F51B4666ABD31F67 /* GrenzeGotisch-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DFCBD63194D6465898C96E2A /* GrenzeGotisch-Thin.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +60,15 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = apptibia/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		9C7B554B59EC4C489C853F07 /* GrenzeGotisch-Black.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-Black.ttf"; path = "../assets/fonts/GrenzeGotisch-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		87013D47366F4FDE8F9FCA07 /* GrenzeGotisch-Bold.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-Bold.ttf"; path = "../assets/fonts/GrenzeGotisch-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		05589240F4EF47858E37903F /* GrenzeGotisch-ExtraBold.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-ExtraBold.ttf"; path = "../assets/fonts/GrenzeGotisch-ExtraBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9DC62CF2DE834CD5B31FDA95 /* GrenzeGotisch-ExtraLight.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-ExtraLight.ttf"; path = "../assets/fonts/GrenzeGotisch-ExtraLight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		9934C5E7D5D84B23B9A98D24 /* GrenzeGotisch-Light.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-Light.ttf"; path = "../assets/fonts/GrenzeGotisch-Light.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		40DD81C6F96748DEA9113FCD /* GrenzeGotisch-Medium.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-Medium.ttf"; path = "../assets/fonts/GrenzeGotisch-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		5C7FA3179C304CE2A47D42FB /* GrenzeGotisch-Regular.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-Regular.ttf"; path = "../assets/fonts/GrenzeGotisch-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A82178D3D55B430F9F199EDA /* GrenzeGotisch-SemiBold.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-SemiBold.ttf"; path = "../assets/fonts/GrenzeGotisch-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DFCBD63194D6465898C96E2A /* GrenzeGotisch-Thin.ttf */ = {isa = PBXFileReference; name = "GrenzeGotisch-Thin.ttf"; path = "../assets/fonts/GrenzeGotisch-Thin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +158,7 @@
 				00E356EF1AD99517003FC87E /* apptibiaTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
+				2E48AD2C71F841FC90096E3E /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -156,6 +175,23 @@
 			);
 			name = Products;
 			sourceTree = "<group>";
+		};
+		2E48AD2C71F841FC90096E3E /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				9C7B554B59EC4C489C853F07 /* GrenzeGotisch-Black.ttf */,
+				87013D47366F4FDE8F9FCA07 /* GrenzeGotisch-Bold.ttf */,
+				05589240F4EF47858E37903F /* GrenzeGotisch-ExtraBold.ttf */,
+				9DC62CF2DE834CD5B31FDA95 /* GrenzeGotisch-ExtraLight.ttf */,
+				9934C5E7D5D84B23B9A98D24 /* GrenzeGotisch-Light.ttf */,
+				40DD81C6F96748DEA9113FCD /* GrenzeGotisch-Medium.ttf */,
+				5C7FA3179C304CE2A47D42FB /* GrenzeGotisch-Regular.ttf */,
+				A82178D3D55B430F9F199EDA /* GrenzeGotisch-SemiBold.ttf */,
+				DFCBD63194D6465898C96E2A /* GrenzeGotisch-Thin.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -295,6 +331,15 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				99A074F68C57428EAAB6D652 /* GrenzeGotisch-Black.ttf in Resources */,
+				7F7B7A64831C408FBB6EC806 /* GrenzeGotisch-Bold.ttf in Resources */,
+				6A0C09129D8B4FB0A2CBA197 /* GrenzeGotisch-ExtraBold.ttf in Resources */,
+				A1BE0EE5C69E4C3BA81EFD5A /* GrenzeGotisch-ExtraLight.ttf in Resources */,
+				DDF8A46A79174DE0821BC93F /* GrenzeGotisch-Light.ttf in Resources */,
+				47613A4036CE418081F20856 /* GrenzeGotisch-Medium.ttf in Resources */,
+				1040D7128345462FA86AD693 /* GrenzeGotisch-Regular.ttf in Resources */,
+				161E3F907758454E811C69F8 /* GrenzeGotisch-SemiBold.ttf in Resources */,
+				CC437038F51B4666ABD31F67 /* GrenzeGotisch-Thin.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
