@@ -14,8 +14,8 @@ const Routes: React.FC = () => {
         cardStyle: { backgroundColor: '#364C50' },
       }}
     >
-      <Stack.Screen name="Tíbia" component={Main} />
-      <Stack.Screen name="World Details" component={WorldDetails} />
+      <Stack.Screen name="Main" component={Main} />
+      <Stack.Screen name="Details" component={WorldDetails} />
     </Stack.Navigator>
   );
 };

@@ -1,18 +1,20 @@
 import styled from 'styled-components/native';
 
 export const Container = styled.View`
-  padding: 0 25px;
+  padding: 0 32px;
   flex: 1;
   align-items: center;
 `;
 
 export const ImageHeader = styled.Image`
+  margin-top: 30px;
   width: 255px;
   height: 145px;
 `;
 
 export const Title = styled.Text`
-  margin-top: 10px;
+  margin: 30px 0 20px 0;
+
   text-align: center;
   font-size: 52px;
   color: #fff;
@@ -40,7 +42,7 @@ export const WorldData = styled.View`
 export const Label = styled.Text`
   font-size: 22px;
   font-family: 'GrenzeGotisch-Bold';
-  margin-right: 10px;
+  margin-right: 15px;
 `;
 
 export const Data = styled.Text`
